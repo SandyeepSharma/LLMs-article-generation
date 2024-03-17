@@ -26,6 +26,8 @@ git clone https://github.com/SandyeepSharma/article-generation-using-LLMs.git
 ```pip install -r requirements.txt```
 
 ## Usage
+Before running the app.py, you will have to download the ```"llama-2-7b-chat.ggmlv3.q8_0.bin"``` model folder in the same location as ```app.py```.
+
 ```streamlit run app.py```
 
 1. Access the application in your web browser by navigating to the provided URL (typically http://localhost:8501).
